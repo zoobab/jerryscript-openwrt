@@ -1,9 +1,10 @@
-= About
+# About
 
 This is my frst attempt to make an OpenWRT package for Jerryscript.
 
-= Problems
+# Problems
 
+* Still have to pass build options to not use jerry-libc
 * Built with cmake, it does not find strip of the toolchain, ends up with an error like command not found:
 
 ```
@@ -32,11 +33,11 @@ make[1]: Leaving directory '/home/zoobab/soft/openwrt'
 make: *** [package/jerryscript/compile] Error 2
 ```
 
-= Usage
+# Usage
 
 Add some usage here.
 
-= Links
+# Links
 
 * https://github.com/Samsung/jerryscript/pull/822/files
 * https://github.com/Samsung/jerryscript/commit/db6caf3c4830c352bc45a9178a43aba909574ba8
