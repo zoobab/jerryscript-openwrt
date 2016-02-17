@@ -1,5 +1,3 @@
-# License: GNU General Public License v2.
-
 include $(TOPDIR)/rules.mk
 
 PKG_NAME:=jerryscript
