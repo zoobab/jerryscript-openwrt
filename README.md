@@ -1,6 +1,6 @@
 # About
 
-This is my frst attempt to make an OpenWRT package for Jerryscript.
+A attempt to make an OpenWRT package for Jerryscript.
 
 # Problems
 
