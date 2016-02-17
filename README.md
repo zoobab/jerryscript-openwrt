@@ -42,3 +42,4 @@ Add some usage here.
 * https://github.com/Samsung/jerryscript/pull/822/files
 * https://github.com/Samsung/jerryscript/commit/db6caf3c4830c352bc45a9178a43aba909574ba8
 * https://github.com/qdk0901/iotjs-openwrt
+* https://github.com/qdk0901/iotjs-openwrt/commit/52a41892d0b74439772e200421cb1b9e9c4ed6f9
