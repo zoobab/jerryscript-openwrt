@@ -4,8 +4,8 @@ A attempt to make an OpenWRT package for Jerryscript.
 
 # Problems
 
-* Still have to pass build options to not use jerry-libc
-* Built with cmake, it does not find strip of the toolchain, ends up with an error like command not found:
+* --Still have to pass build options to not use jerry-libc--: -DUSE_COMPILER_DEFAULT_LIBC=YES
+* Built with cmake, it does not find strip of the toolchain, ends up with an error like command not found, for now not stripping with -DSTRIP_RELEASE_BINARY=NO:
 
 ```
 [ 60%] Linking CXX executable release.linux-mem_stats
