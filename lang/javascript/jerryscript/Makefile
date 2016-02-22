@@ -1,10 +1,7 @@
-# Copyright (C) [2013]
+# Author: Benjamin Henrion <zoobab@gmail.com>
 #
-# Author: Victor Perron <victor@iso3103.net>
-#
-# This is free software, licensed under the GNU General Public License v2.
-# See /LICENSE for more information.
-#
+# LICENSE: WTFPL – Do What the Fuck You Want to Public License
+# 
 include $(TOPDIR)/rules.mk
 
 PKG_NAME:=jerryscript
