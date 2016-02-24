@@ -1,7 +1,3 @@
-# Author: Benjamin Henrion <zoobab@gmail.com>
-#
-# LICENSE: WTFPL – Do What the Fuck You Want to Public License
-# 
 include $(TOPDIR)/rules.mk
 
 PKG_NAME:=jerryscript
