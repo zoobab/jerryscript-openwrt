@@ -1,11 +1,9 @@
 # About
 
-A attempt to make an OpenWRT package for Jerryscript.
+OpenWRT package for Jerryscript.
 
 # Problems
 
-* I had to use commit b2f3ec225e931e5b2ddac6a249626ffce8fdf045, HEAD of today was not building (see https://github.com/Samsung/jerryscript/issues/911)
-* --Still have to pass build options to not use jerry-libc--: -DUSE_COMPILER_DEFAULT_LIBC=YES
 * Built with cmake, it does not find strip of the toolchain, ends up with an error like command not found, for now not stripping with -DSTRIP_RELEASE_BINARY=NO:
 
 ```
@@ -36,7 +34,7 @@ make: *** [package/jerryscript/compile] Error 2
 
 # Usage
 
-Add some usage here.
+Just call "jerryscript" on the shell.
 
 # Links
 
