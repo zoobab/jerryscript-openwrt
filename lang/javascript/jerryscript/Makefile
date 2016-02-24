@@ -7,7 +7,7 @@ include $(TOPDIR)/rules.mk
 PKG_NAME:=jerryscript
 PKG_VERSION:=b2f3ec2
 PKG_SOURCE_PROTO:=git
-PKG_SOURCE_URL:=https://github.com/zoobab/jerryscript.git
+PKG_SOURCE_URL:=https://github.com/Samsung/jerryscript.git
 PKG_SOURCE:=$(PKG_NAME).tar.gz
 #PKG_SOURCE_VERSION:=HEAD
 PKG_SOURCE_VERSION:=b2f3ec225e931e5b2ddac6a249626ffce8fdf045
