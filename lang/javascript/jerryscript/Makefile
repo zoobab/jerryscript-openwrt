@@ -5,7 +5,7 @@
 include $(TOPDIR)/rules.mk
 
 PKG_NAME:=jerryscript
-PKG_VERSION:=master
+PKG_VERSION:=b2f3ec2
 PKG_SOURCE_PROTO:=git
 PKG_SOURCE_URL:=https://github.com/zoobab/jerryscript.git
 PKG_SOURCE:=$(PKG_NAME).tar.gz
