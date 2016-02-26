@@ -29,10 +29,7 @@ define Package/jerryscript
   SECTION:=lang
   SUBMENU:=Javascript
   CATEGORY:=Languages
-endef
-
-define Package/jerryscript/description
-	Ultra-lightweight JavaScript engine for Internet of Things
+  TITLE:=Ultra-lightweight JavaScript engine for Internet of Things
 endef
 
 define Build/Compile
