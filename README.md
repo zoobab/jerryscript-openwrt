@@ -1,6 +1,6 @@
 # About
 
-OpenWRT package for Jerryscript.
+OpenWRT package for Jerryscript, libtuv, iotjs.
 
 # Problems
 
